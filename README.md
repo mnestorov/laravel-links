@@ -42,6 +42,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+---
+
 ## License
 
 This project is released under the MIT License.
