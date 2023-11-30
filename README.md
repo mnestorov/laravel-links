@@ -8,6 +8,8 @@
 
 This is a demo application built to showing you how to create a [linktr.ee](https://linktr.ee) clone using the [Laravel](https://laravel.com) PHP framework.
 
+## Description
+
 This project comprises three simple data models and related tables:
 
 - **Users** are individual accounts that a person can create on the app
